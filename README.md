@@ -1,5 +1,3 @@
-![PyGPIOCWKeyer](https://user-images.githubusercontent.com/76819904/107884122-ff3e9600-6ec0-11eb-9617-36f2ddbc485b.png)
-
 
 NO WARRANTY
 NO WARRANTY
@@ -10,6 +8,10 @@ NO WARRANTY
 USE AT YOUR OWN RISK
 
         *******  NO SUPPORT OFFERED  *******
+
+![PyGPIOCWKeyer](https://user-images.githubusercontent.com/76819904/107884122-ff3e9600-6ec0-11eb-9617-36f2ddbc485b.png)
+
+Python GPIO CW keying program by N4LSJ
 
 For keying, a 5V reed relay with a cap across the contacts to
 the rig, and the relay's coil across a GPIO pin and ground,
